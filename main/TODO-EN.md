@@ -1,4 +1,3 @@
-# Subject 4
 # Topic: REACT
 
 # Having the following automatic vending machine created with `create-react-app` modify it so that:
