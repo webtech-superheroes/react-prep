@@ -1,4 +1,3 @@
-# Subiect 4
 # Tematica: REACT
 
 # Avand urmatoarea aplicatie pentru vanzare automata de produse  realizati modificari astfel incat:
